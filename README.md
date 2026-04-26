@@ -1,73 +1,61 @@
 # Hey there! 👋 I'm imzazeth
 
-Welcome to my GitHub profile! I'm a passionate developer exploring the intersection of code, creativity, and innovation. This space is where I share my experiments, prototypes, and curious ideas that drive my growth in software development.
+Welcome to my corner of GitHub! I'm a passionate developer exploring the intersection of **experiments, prototypes, and curious ideas**. 
 
 ---
 
-## 🚀 About Me
+## 🎯 What I Do
 
-I'm dedicated to building meaningful projects and pushing the boundaries of what's possible through code. With a focus on clean architecture, problem-solving, and continuous learning, I strive to create solutions that matter.
-
----
-
-## 💡 What I'm Working On
-
-- 🔬 **Active Projects**: Exploring innovative prototypes and experimental ideas
-- 📚 **Currently Learning**: Deepening expertise across multiple domains
-- 🎯 **Open to**: Collaboration, interesting challenges, and creative partnerships
+I build things, break things, and learn from both. My projects range from innovative prototypes to experimental explorations in Web3 and beyond. I believe in shipping fast, iterating often, and maintaining a curious mindset.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-*Core Technologies & Tools* (to be personalized with your specific skills)
+- **Languages**: JavaScript, TypeScript, Python, Solidity
+- **Frontend**: React, Next.js, Tailwind CSS
+- **Backend**: Node.js, Smart Contracts
+- **Tools & Platforms**: Git, GitHub, Docker, Web3 Technologies
+
+---
+
+## 🚀 Featured Projects
+
+### [spinnedbased](https://github.com/zazalpha/spinnedbased)
+> *An evolving project for experiments, prototypes, and curious ideas.*
+
+A playground for exploring new concepts and pushing boundaries. Always evolving, always learning.
+
+---
+
+## 🔗 Connect With Me
+
+- **𝕏 (Twitter)**: [@zazalpha](https://x.com/zazalpha)
+- **Farcaster**: [@imzaz.eth](https://farcaster.xyz/imzaz.eth)
+- **GitHub**: [@imzazeth](https://github.com/imzazeth)
+
+---
+
+## 💡 Currently Exploring
+
+🧪 Experimenting with novel ideas and pushing creative boundaries  
+🔬 Building prototypes that challenge conventional thinking  
+🌐 Diving deeper into Web3 technologies and decentralized systems  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imzazeth&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imzazeth&layout=compact&theme=dark&hide_border=true)
+![imzazeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=imzazeth&show_icons=true&theme=dark&count_private=true)
 
 ---
 
-## 🌟 Featured Projects
+## 🎓 Philosophy
 
-### [SpinnedBased](https://github.com/zazalpha/spinnedbased)
-An evolving project for experiments, prototypes, and curious ideas.
+> *"The best way to predict the future is to build it."*
 
-*More projects coming soon...*
-
----
-
-## 📫 Let's Connect!
-
-I love collaborating and discussing ideas. Feel free to reach out:
-
-- 🌐 **Website**: *[Your website here]*
-- 💼 **LinkedIn**: *[Your LinkedIn profile]*
-- 🐦 **Twitter/X**: *[Your Twitter handle]*
-- 📧 **Email**: *[Your email]*
+I'm always eager to collaborate, learn from others, and explore new ideas. If you're working on something interesting, let's connect!
 
 ---
 
-## 💬 Fun Facts
-
-- ✨ *What makes you unique?*
-- 🎮 *Hobbies or interests?*
-- 🌍 *What are you passionate about?*
-
----
-
-## ⭐ Support
-
-If you find my projects helpful or interesting, consider giving them a star! Your support means a lot. 
-
----
-
-<div align="center">
-
-**Made with ❤️ by [imzazeth](https://github.com/imzazeth)**
-
-</div>
+**Last updated**: April 26, 2026 ✨
