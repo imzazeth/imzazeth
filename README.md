@@ -45,9 +45,7 @@ An evolving project for experiments, prototypes, and curious ideas.
 
 I love collaborating and discussing ideas. Feel free to reach out:
 
-- 🌐 **Website**: *[Your website here]*
-- 💼 **LinkedIn**: *[Your LinkedIn profile]*
-- 🐦 **Twitter/X**: *[Your Twitter handle]*
+- 🐦 **Twitter/X**: *(https://x.com/zazalpha)*
 - 📧 **Email**: *[Your email]*
 
 ---
