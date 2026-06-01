@@ -1,0 +1,84 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #121212;
+    color: #f2f2f2;
+    line-height: 1.6;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #2D9CDB;
+}
+
+header .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #f2f2f2;
+}
+
+header nav ul {
+    display: flex;
+    gap: 1rem;
+}
+
+header nav ul li a {
+    color: #f2f2f2;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    text-align: center;
+    padding: 2rem;
+    background: linear-gradient(135deg, #9B51E0, #2D9CDB);
+    color: #fff;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.hero button {
+    padding: 0.5rem 1rem;
+    background-color: #F2C94C;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.category {
+    background-color: #1E1E1E;
+    padding: 1.5rem;
+    border-radius: 8px;
+}
+
+.category h2 {
+    margin-bottom: 0.5rem;
+    color: #F2C94C;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #2D2D2D;
+    color: #f2f2f2;
+}
